@@ -12,16 +12,3 @@ main{
     flex-direction:column ;
     gap: 10px;
 }
-.content{
-    height: 40vh;
-    width: 400px;
-    background-color: red;
-}
-.options button{
-height: 40px;
-width: 120px;
-border: none;
-background-color: green;
-border-radius: 10px;
-color: white;
-}
